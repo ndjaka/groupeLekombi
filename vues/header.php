@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Photo Session Photo Gallery Category Flat Bootstrap Responsive Website Template | Home : W3layouts</title>	
+<title>Le Kombi Internation</title>	
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
@@ -19,18 +19,18 @@
 	<!--// Meta tag Keywords -->
     
 	<!-- css files -->
-	<link rel="stylesheet" href="./css/bootstrap.css"> <!-- Bootstrap-Core-CSS -->
-	<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" /> <!-- Style-CSS --> 
-	<link rel="stylesheet" href="./css/fontawesome-all.css"> <!-- Font-Awesome-Icons-CSS -->
-	<link rel="stylesheet" href="./css/footer.css"> <!-- Footer-CSS -->
+	<link rel="stylesheet" href="/web/css/bootstrap.css"> <!-- Bootstrap-Core-CSS -->
+	<link rel="stylesheet" href="/web/css/style.css" type="text/css" media="all" /> <!-- Style-CSS --> 
+	<link rel="stylesheet" href="/web/css/fontawesome-all.css"> <!-- Font-Awesome-Icons-CSS -->
+	<link rel="stylesheet" href="/web/css/footer.css"> <!-- Footer-CSS -->
 	<!-- //css files -->
 	
 	<!--web font-->
 	<link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=devanagari,latin-ext" rel="stylesheet">
 	<!--//web font-->
 
-	<script src="web/js/jquery-2.1.4.min.js"></script>
-	<script src="web/js/bootstrap.js"></script>
+	<script src="/web/js/jquery-2.1.4.min.js"></script>
+	<script src="/web/js/bootstrap.js"></script>
 
 </head>
 
@@ -40,8 +40,8 @@
 <header>
 	<div class="container-fliud px-sm-5 px-3" style="background-color: #000c;">
 		<nav class="navbar navbar-expand-lg navbar-light">
-			<a class="navbar-brand" href="index.html">
-				<i class="fas fa-camera-retro"></i> Groupe <span>LeKombi</span>
+			<a class="navbar-brand" href="index.php">
+				<i class="fas fa-world"></i> Groupe <span>LeKombi</span>
 			</a>
 			<button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
 				aria-expanded="false" aria-label="Toggle navigation">
@@ -51,28 +51,28 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mx-auto text-center">
 					<li class="nav-item active  mr-lg-3">
-						<a class="nav-link" href="index.html">Home
+						<a class="nav-link" href="index.php">Home
 							<span class="sr-only">(current)</span>
 						</a>
 					</li>
 					<li class="nav-item  mr-lg-3">
-						<a class="nav-link" href="about.html">about</a>
+						<a class="nav-link" href="about.php">about</a>
 					</li>
-					<li class="nav-item  mr-lg-3">
-						<a class="nav-link" href="services.html">Services</a>
-					</li>
-					<li class="nav-item dropdown mr-lg-3">
+					<!-- <li class="nav-item  mr-lg-3">
+						<a class="nav-link" href="services.php">Services</a>
+					</li> -->
+					<!-- <li class="nav-item dropdown mr-lg-3">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
 							aria-expanded="false">
 							Dropdown
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="booking.html">Booking</a>
-							<a class="dropdown-item" href="portfolio.html">Portfolio</a>
+							<a class="dropdown-item" href="booking.php">Booking</a>
+							<a class="dropdown-item" href="portfolio.php">Portfolio</a>
 						</div>
-					</li>
+					</li> -->
 					<li class="nav-item">
-						<a class="nav-link" href="contact.html">contact</a>
+						<a class="nav-link" href="contact.php">contact</a>
 					</li>
 				</ul>
 				<div class="buttons mt-lg-0 mt-3">

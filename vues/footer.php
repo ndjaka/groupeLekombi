@@ -7,11 +7,8 @@
 				<div class="col-xs-12 col-sm-3 col-md-3 py-5">
 					<h5>Nous Contacter</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="javascript:void();"><i class="fab fa-whatsapp"></i>+23145678</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-phone"></i>+232586848</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-3 col-md-3 py-5">
@@ -59,12 +56,12 @@
 <!-- //footer -->
 
 	<!-- js -->
-	<script src="./js/jquery-2.1.4.min.js"></script>
-	<script src="./js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap --> 
+	<script src="/web/js/jquery-2.1.4.min.js"></script>
+	<script src="/web/js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap --> 
 	<!-- //js -->	
 	
 	<!-- Banner Responsiveslides -->
-	<script src="./js/responsiveslides.min.js"></script>
+	<script src="/web/js/responsiveslides.min.js"></script>
 	<script>
 		// You can also use "$(window).load(function() {"
 		$(function () {
@@ -88,9 +85,9 @@
 	<!-- // Banner Responsiveslides -->
 
 	<!-- start-smoth-scrolling -->
-	<script src="./js/SmoothScroll.min.js"></script>
-	<script src="./js/move-top.js"></script>
-	<script src="./js/easing.js"></script>
+	<script src="/web/js/SmoothScroll.min.js"></script>
+	<script src="/web/js/move-top.js"></script>
+	<script src="/web/js/easing.js"></script>
 	<script>
 		jQuery(document).ready(function($) {
 			$(".scroll").click(function(event){		

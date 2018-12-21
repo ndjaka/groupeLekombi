@@ -1,6 +1,6 @@
 
 <!-- header -->
-<?php require_once("./vues/header.php")?>
+<?php require_once("/vues/header.php") ?>
 <!-- //header -->
 
 
@@ -12,9 +12,9 @@
 				<div class="slider-info bg1">
 					<div class="bs-slider-overlay">
 					<div class="banner-text container">
-						<h5 class="tag text-center mb-3 text-uppercase">We are professional </h5>
-						<h1 class="movetxt text-center agile-title text-uppercase">Videography Services</h1>
-						<h4 class="movetxt text-center mb-3 agile-title text-uppercase">Commercial Videography </h4>							
+						<h5 class="tag text-center mb-3 text-uppercase"></h5>
+						<h1 class="movetxt text-center agile-title text-uppercase">audit et service</h1>
+						<h4 class="movetxt text-center mb-3 agile-title text-uppercase">Commerce general </h4>							
 						<a class="bt mt-sm-4 text-capitalize" href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button"> Explore
 						<i class="fas fa-camera-retro"></i> </a>
 					</div>
@@ -25,9 +25,9 @@
 				<div class="slider-info bg2">
 					<div class="bs-slider-overlay">
 					<div class="banner-text container">
-						<h5 class="tag text-center mb-3 text-uppercase">We are unique</h5>
-						<h4 class="movetxt text-center agile-title text-uppercase">Quality Photography  </h4>
-						<h4 class="movetxt text-center mb-3 agile-title text-uppercase">Art Gallery Photography </h4>	
+						<h5 class="tag text-center mb-3 text-uppercase"></h5>
+						<h4 class="movetxt text-center agile-title text-uppercase">securite et surete  </h4>
+						<h4 class="movetxt text-center mb-3 agile-title text-uppercase"></h4>	
 						<a class="bt mt-sm-4 text-capitalize" href="#" data-toggle="modal" data-target="#exampleModalCenter" role="button"> Explore
 						<i class="fas fa-camera-retro"></i> </a>
 					</div>
@@ -97,31 +97,31 @@
 		<div class="row service-grids">
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/sec.PNG" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Formation en sécurité et surété<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">placement des agents </p>
+		               <a href="/web/vues/securitesurete.php" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/commerce_general.PNG" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Commerce géneral<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">vente de produits divers</p>
+		               <a href="#" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/importexport.jpg" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Import Export<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">Import Export dans tout le monde</p>
+		               <a href="vues/securitesurete.php" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
@@ -136,31 +136,31 @@
 		<div class="row service-grids">
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/agroalimentaire.PNG" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Agro Alimentaire<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">Some quick example text</p>
+		               <a href="#" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/audit2.PNG" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Audit et Conseils<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">lorem ipsum</p>
+		               <a href="#" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
 			<div class="col-lg-4 col-md-6 grid1">
 				<div class="card bg-light">
-		            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
+		            <img class="card-img-top" src="/web/images/agro2.PNG" alt="Card image cap">
 		            <div class="card-body">
-		               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-		               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		               <a href="#" class="btn btn-sm btn-info float-right">bien <i class="fas fa-angle-double-right"></i></a>
+		               <h5 class="card-title border-bottom pb-3">Prestation de services<a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
+		               <p class="card-text">Some quick example</p>
+		               <a href="#" class="btn btn-sm btn-info float-right">plus de détails <i class="fas fa-angle-double-right"></i></a>
 	                </div>
 	         </div>
 			</div>
@@ -170,5 +170,5 @@
 <!-- //Services -->
 
 <!-- footer -->
-<?php require_once("./vues/footer.php")?>
+<?php require_once("/vues/footer.php") ?>
 <!-- //footer -->

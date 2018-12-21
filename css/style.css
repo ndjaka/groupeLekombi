@@ -176,7 +176,7 @@ header h1 a span {
 }
 
 .bg2 {
-    background: url(../images/2.jpg)no-repeat center;
+    background: url(../images/sec3.jpeg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -186,7 +186,7 @@ header h1 a span {
 }
 
 .bg3 {
-    background: url(../images/3.jpg)no-repeat center;
+    background: url(../images/1.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -195,7 +195,7 @@ header h1 a span {
     height: 48vw;
 }
 .bg4 {
-    background: url(../images/4.jpg)no-repeat center;
+    background: url(../images/1.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -866,7 +866,7 @@ a.footer-logo span {
 
 /*-- about page --*/
 .inner-banner {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/g6.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 300px;
 }
@@ -916,10 +916,11 @@ a.footer-logo span {
 }
 /*-- //about section --*/
 /*-- stats --*/
-.stats {
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+/*image des cameras*/
+/*.stats {
+    background: url(../images/sec3.jpeg) no-repeat 0px 0px;
     background-size: cover;
-}
+}*/
 .stats h3.heading{
 	color: #eee;
 }
