@@ -24,21 +24,23 @@
 				<div class="col-col-xs-12 col-sm-3 col-md-3 py-5">
 					<h5>Equipe de développement</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>eugenendjaka@gmail.com</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>armelsauvy@gmail.com</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>loicsanou@gmail.com</a></li>
+						
+					
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-3 col-md-3 py-5">
 					<h5>Nos Services</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Formation en sécurité et surété</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Commerce géneral</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>import-export</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Agro alimentaire</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Audit et conseils</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Prestations de service</a></li>
+						
 					</ul>
 				</div>
 			</div>
@@ -55,7 +57,7 @@
 </footer>
 <!-- //footer -->
 
-	<!-- js -->
+	<!-- js -->	
 	<script src="/web/js/jquery-2.1.4.min.js"></script>
 	<script src="/web/js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap --> 
 	<!-- //js -->	

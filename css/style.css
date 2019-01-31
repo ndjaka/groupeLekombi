@@ -176,7 +176,7 @@ header h1 a span {
 }
 
 .bg2 {
-    background: url(../images/sec3.jpeg)no-repeat center;
+    background: url(../images/banner-1.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -186,7 +186,7 @@ header h1 a span {
 }
 
 .bg3 {
-    background: url(../images/1.jpg)no-repeat center;
+    background: url(../images/audit.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -195,7 +195,7 @@ header h1 a span {
     height: 48vw;
 }
 .bg4 {
-    background: url(../images/1.jpg)no-repeat center;
+    background: url(../images/prestations.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -203,6 +203,17 @@ header h1 a span {
     background-size: cover;
     height: 48vw;
 }
+
+.bg5 {
+    background: url(../images/fruit.jpg)no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    height: 48vw;
+}
+
 .banner-text {
     padding: 18vw 0 0;
     text-align: center;
@@ -866,7 +877,31 @@ a.footer-logo span {
 
 /*-- about page --*/
 .inner-banner {
-    background: url(../images/g6.jpg) no-repeat 0px 0px;
+    background: url(../images/banner-img2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 300px;
+}
+
+/*-- commerce-ie page --*/
+
+.inner-banner1 {
+    background: url(../images/super_1.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 300px;
+}
+
+/*-- prestations page --*/
+
+.inner-banner2 {
+    background: url(../images/prestations.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 300px;
+}
+
+/*-- audit et conseils page --*/
+
+.inner-banner3 {
+    background: url(../images/audit.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 300px;
 }
@@ -894,7 +929,7 @@ a.footer-logo span {
     font-weight: 300;
     letter-spacing: 1px;
 }
-.about a {
+/*.about a {
     color: #212529;
     font-size: 16px;
     display: inline-block;
@@ -908,19 +943,22 @@ a.footer-logo span {
     -moz-border-radius: 35px;
     -ms-border-radius: 35px;
     -o-border-radius: 35px;
-}
+}*/
+
 .about a:hover {
 	color: #fff;
     background: #30c39e;
     border: 2px solid #30c39e;
 }
+
+
 /*-- //about section --*/
 /*-- stats --*/
 /*image des cameras*/
-/*.stats {
-    background: url(../images/sec3.jpeg) no-repeat 0px 0px;
+.stats {
+    background: url(../images/cam.jpg) no-repeat 0px 0px;
     background-size: cover;
-}*/
+}
 .stats h3.heading{
 	color: #eee;
 }
@@ -1495,7 +1533,8 @@ figure:hover+span {
     height: 350px;
 }
 .map{
-	position: relative;
+    position: relative;
+    
 }
 .location {
     position: absolute;
@@ -1861,3 +1900,33 @@ figure:hover+span {
 	
 }
 /*-- //Responsive Design --*/
+
+
+
+.col-md-4.how-img {
+    FONT-SIZE: 60px;
+   
+}
+
+.test {
+    border: 4px solid;
+    border-radius: 46px;
+    height: 104px;
+    width: 104px;
+    position: relative;
+    margin-top: 33px;
+    padding: 20px;
+}
+
+
+small {
+    position: relative;
+    left: 40px;
+    top: -29px;
+}
+
+p.armelo {
+    position: relative;
+    left: 83px;
+    top: -32px;
+}

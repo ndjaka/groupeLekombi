@@ -21,6 +21,7 @@
 	<!-- css files -->
 	<link rel="stylesheet" href="/web/css/bootstrap.css"> <!-- Bootstrap-Core-CSS -->
 	<link rel="stylesheet" href="/web/css/style.css" type="text/css" media="all" /> <!-- Style-CSS --> 
+	<link rel="stylesheet" href="/web/css/audit_conseil.css"> <!-- Footer-CSS -->
 	<link rel="stylesheet" href="/web/css/fontawesome-all.css"> <!-- Font-Awesome-Icons-CSS -->
 	<link rel="stylesheet" href="/web/css/footer.css"> <!-- Footer-CSS -->
 	<!-- //css files -->
@@ -40,8 +41,8 @@
 <header>
 	<div class="container-fliud px-sm-5 px-3" style="background-color: #000c;">
 		<nav class="navbar navbar-expand-lg navbar-light">
-			<a class="navbar-brand" href="index.php">
-				<i class="fas fa-world"></i> Groupe <span>LeKombi</span>
+			<a class="navbar-brand" href="/web/index.php">
+				<i class="fas fa-world"></i> Groupe <span>Le Kombi intenational </span> 
 			</a>
 			<button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
 				aria-expanded="false" aria-label="Toggle navigation">
@@ -51,12 +52,12 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mx-auto text-center">
 					<li class="nav-item active  mr-lg-3">
-						<a class="nav-link" href="index.php">Home
+						<a class="nav-link" href="/web/index.php">Acceuil
 							<span class="sr-only">(current)</span>
 						</a>
 					</li>
 					<li class="nav-item  mr-lg-3">
-						<a class="nav-link" href="about.php">about</a>
+						<a class="nav-link" href="/web/about.php">a propos</a>
 					</li>
 					<!-- <li class="nav-item  mr-lg-3">
 						<a class="nav-link" href="services.php">Services</a>
@@ -72,7 +73,7 @@
 						</div>
 					</li> -->
 					<li class="nav-item">
-						<a class="nav-link" href="contact.php">contact</a>
+						<a class="nav-link" href="/web/contact.php">contact</a>
 					</li>
 				</ul>
 				<div class="buttons mt-lg-0 mt-3">
