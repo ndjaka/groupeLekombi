@@ -76,11 +76,11 @@
 						<a class="nav-link" href="/web/contact.php">contact</a>
 					</li>
 				</ul>
-				<div class="buttons mt-lg-0 mt-3">
+				<!--<div class="buttons mt-lg-0 mt-3">
 					<a href="#"><i class="fab mr-3 fa-facebook-f"></i></a>
 					<a href="#"><i class="fab mr-3 fa-twitter"></i></a>
 					<a href="#"><i class="fab mr-3 fa-linkedin-in"></i></a>
-				</div>
+				</div>-->
 				
 			</div>
 		</nav>

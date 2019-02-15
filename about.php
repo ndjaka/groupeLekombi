@@ -13,7 +13,7 @@
 				<p class="top"></p>
 				<h4></h4>
 				<p>le groupe a été crée en 2011 par M. SYLVIN ERIC KOMBI dans le but de promouvoir
-				 les services divers aupres des entreprises et des particiliers<br>
+				 les services divers aupres des entreprises et des particiliers.<br>
 				  Situé a Paris , France il oeuvre dans les domaines suivants :
 				</p>
 					
@@ -22,7 +22,7 @@
 						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> agro alimentaire</h5></p></li>
 						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> commerce génerale</h5></p></li>
 						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> import / export</h5></p></li>
-						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> audit</h5></p></li>
+						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> audit et conseils</h5></p></li>
 						<li><p href="javascript:void();"><h5 style="color:#30c39e;" ><i class="fa fa-angle-double-right"></i> prestations des services</h5></p></li>
 					</ul>
 			

@@ -1904,7 +1904,7 @@ figure:hover+span {
 
 
 .col-md-4.how-img {
-    FONT-SIZE: 60px;
+    /*FONT-SIZE: 60px;*/
    
 }
 
@@ -1918,15 +1918,63 @@ figure:hover+span {
     padding: 20px;
 }
 
-
+/*
 small {
     position: relative;
     left: 40px;
     top: -29px;
-}
+}*/
 
 p.armelo {
     position: relative;
     left: 83px;
     top: -32px;
+}
+
+img.card-img-top {
+    width: 348px!important;
+    height: 218px!important;
+}
+
+.col-lg-4.col-12.pr-sm-3.pr-0 img {
+    width: 380px;
+    height: 240px;
+}
+
+.col-lg-2.col-4.pr-0 img {
+    width: 190px;
+    height: 105px;
+}
+
+
+small.text-one {
+   /*position: relative;
+    left: 12px;*/
+    font-weight: 700;
+}
+
+p.armelo.text-one {
+    font-weight: 100;
+    font-size: 23px!important;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 180px;
+
+}
+
+i.fa.test {
+    font-size: 53px;
+}
+body{
+    overflow-x: hidden;
+}
+
+.text-one {
+    padding-left: 28px;
+    position: relative;
+    top: -18px;
+}
+
+.content{
+    width: max-content;
 }

@@ -9,7 +9,7 @@
 <section id="tabs">
  <div class="container">
 
-        <h6 class="section-title h1">BIENVENUE DANS LE VOLET<br>prestation de service</h6>
+        <h6 class="section-title h1">prestation de service</h6>
         <section class="about ">
 	<div class="container py-sm-2">
 		
@@ -23,11 +23,11 @@
 			
 				<p>
 L’entreprise de prestations de service groupe lekombi vous propose des 
-interventions pour faciliter le gestion de vos entreprises ainsi que diverses prestations de service
+interventions pour faciliter le gestion de vos entreprises ainsi que diverses prestations de services.
 
 </p>
 				<p class="my-3">Forte de 10 ans d’expérience, elle assure le management facile et la maintenance de premier niveau de professionnels et d’entreprises . Elle propose également aux particuliers 
-					des services informatique et bureautique, de batiment  et travaux. 
+					des services informatiques et bureautiques, de batiments  et travaux. 
 			
 			</p>
 				
@@ -58,7 +58,5 @@ interventions pour faciliter le gestion de vos entreprises ainsi que diverses pr
 </div>
 
 <!--debut-->
-
- 
 
 <?php include'/footer.php' ?>

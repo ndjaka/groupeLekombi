@@ -37,9 +37,9 @@
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Formation en sécurité et surété</a></li>
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Commerce géneral</a></li>
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>import-export</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Agro alimentaire</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Agroalimentaire</a></li>
 						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Audit et conseils</a></li>
-						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Prestations de service</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Prestation de service</a></li>
 						
 					</ul>
 				</div>

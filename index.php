@@ -94,7 +94,7 @@
 		            <img class="card-img-top" src="/web/images/commerce_general.PNG" alt="Card image cap">
 		            <div class="card-body">
 		               <h5 class="card-title border-bottom pb-3">Commerce géneral</h5>
-		               <p class="card-text">ici nous mettons à votre disposition plusieurs varietés de produits</p>
+		               <p class="card-text">ici nous mettons à votre disposition plusieurs varietés </p>
 		               <a href="/web/vues/commerceieagr.php" class="btn btn-sm btn-info float-right"> En savoir plus</a>
 	                </div>
 	         </div>
@@ -133,7 +133,7 @@
 		            <img class="card-img-top" src="/web/images/audit2.PNG" alt="Card image cap">
 		            <div class="card-body">
 		               <h5 class="card-title border-bottom pb-3">Audit et Conseils</h5>
-		               <p class="card-text">lorem ipsum</p>
+		               <p class="card-text">Groupe Le Kombi Audit & Conseil accompagne les Directions </p>
 		               <a href="/web/vues/auditConseil.php" class="btn btn-sm btn-info float-right"> En savoir plus</a>
 	                </div>
 	         </div>
@@ -144,7 +144,7 @@
 		            <div class="card-body">
 		               <h5 class="card-title border-bottom pb-3">Prestation de services</h5>
 		               <p class="card-text"> 
-                            L’entreprise de prestations de service groupe lekombi vous propose </p>
+                            L’entreprise de prestations de service groupe lekombi  </p>
 		               <a href="/web/vues/prestationservice.php" class="btn btn-sm btn-info float-right">En savoir plus</a>
 	                </div>
 	         </div>
@@ -156,4 +156,8 @@
 
 <!-- footer -->
 <?php require_once("/vues/footer.php") ?>
+
+<!--ndjaka bah-->
+<!--armel sanou-->
+<!--ndjaka bah-->
 <!-- //footer -->
